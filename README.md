@@ -9,7 +9,7 @@ Produkcioni Next.js paket za imaposla.me. UI je presvucen u NextHire stil, ali a
 - Kandidati/radnici sa list/grid prikazom.
 - Firme i profil firme.
 - Kandidat panel: CV, prijave, sacuvani oglasi, upozorenja, brzi profil.
-- Firma panel: oglasi, novi oglas, kandidati, selekcija, brzi angazmani, baneri, pretplata.
+- Firma panel: oglasi, novi oglas, kandidati, selekcija, brzi angazmani, baneri, pretplata. 
 - Admin panel: oglasi, firme, korisnici, paketi, baneri, brzi poslovi, uplate, audit.
 - Supabase migracije, seed i edge funkcije u `supabase/`.
 
